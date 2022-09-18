@@ -4,18 +4,13 @@
   <a href="https://www.python.org">
     <img src="http://ForTheBadge.com/images/badges/made-with-python.svg" width ="250">
   </a>
-  <a href="https://heroku.com/deploy?template=https://github.com/gsoosk/TelegramSpotifyDownloader/tree/heroku">
+  <a href="https://heroku.com/deploy?template=https://github.com/saichandan181/spotifychandan.git">
     <img src="https://www.herokucdn.com/deploy/button.svg" width="180">
   </a>
-  <a href="https://t.me/spotdl_tel_bot">
+  <a href="https://telegram.me/spotify_sxiiBot">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&label=Demo" width="240">
   </a>
   <br>
-  <a href="https://github.com/gsoosk/TelegramSpotifyDownloader/stargazers">
-    <img src="https://img.shields.io/github/stars/gsoosk/TelegramSpotifyDownloader?style=social">
-  </a>
-  <a href="https://github.com/gsoosk/TelegramSpotifyDownloader/fork">
-    <img src="https://img.shields.io/github/forks/gsoosk/TelegramSpotifyDownloader?label=Fork&style=social">
   </a>  
 </p>
 
